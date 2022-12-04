@@ -1,0 +1,54 @@
+.App {
+  margin: auto;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: left;
+  line-height: 25px;
+  background-color: white;
+  max-width: 80%;
+  margin-top: 5rem;
+  border-radius: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+body {
+  background: ghostwhite;
+}
+
+hgroup {
+  margin-bottom: 30px;
+}
+.description-section {
+  flex: 1;
+  padding: 2rem;
+}
+.scheduler,
+.duration {
+  line-height: 20px;
+  font-weight: 700;
+}
+.gray {
+  color: gray;
+}
+.icon-text-div {
+  display: flex;
+  align-items: center;
+}
+h4 {
+  margin: 0;
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+.event {
+  font-weight: 700;
+  color: darkslategray;
+  margin-top: 0;
+}
+.s-30 {
+  width: 18px;
+  height: 18px;
+}
+
+.icons {
+  margin-right: 1rem;
+}
